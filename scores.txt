@@ -1,0 +1,12 @@
+Gaspar:Otsunga:0
+Gaspar:Otsunga:1
+valter:Mario:-1
+Gaspar:Otsunga:0
+Juventus:AcMilan:1
+Gaspar:Otsunga:1
+IsaacNewton:Heisenberg:1
+Messi:Ronaldo:-1
+gustavo:victor:-1
+Jasper:Duster:1
+Otsunga:Gaspar:0
+Gaspa:Otsunga:0

@@ -1,0 +1,8 @@
+Student Name: Gaspar Erasmo Bucuane
+In the text file, the winner is determined by their 
+index (0 or 1). For instance, if player one wins
+ against player two, the file will write the 
+following: "player1:player2:0". In case player
+ two wins, the file will write the following: "player1:player2:1".
+
+ -1 is a draw.
